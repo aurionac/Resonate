@@ -4,6 +4,19 @@ A local Spotify-style music player: build playlists, play with shuffle/loop, bro
 
 A **desktop app** (Electron) for Windows, macOS, and Linux.
 
+## Downloads
+
+Resonate is a desktop music player designed to let you enjoy your local music library.
+
+## 📥 Download Resonate
+
+**[Download Resonate v1.0.0](https://github.com/aurionac/Resonate/releases/tag/v1.0.0)**
+
+Available for:
+
+- **Windows** — Download the ZIP, extract it, and run `Setup.exe`.
+- **macOS** — Download `Resonate.dmg`, open it, and follow the installation instructions.
+
 ## Requirements
 
 ### Development
