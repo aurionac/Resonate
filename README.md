@@ -2,7 +2,7 @@
 
 A local Spotify-style music player: build playlists, play with shuffle/loop, browse YouTube, and download MP3s — reusing files you’ve already grabbed.
 
-Runs as a **web app** (dev browser) or a **desktop app** (Electron) for Windows, macOS, and Linux.
+A **desktop app** (Electron) for Windows, macOS, and Linux.
 
 ## Requirements
 
